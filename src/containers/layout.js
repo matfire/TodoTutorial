@@ -2,7 +2,6 @@ import { Layout, Menu, Breadcrumb, Avatar } from 'antd';
 import React from 'react'
 import {Context} from '../App'
 import md5 from 'js-md5';
-
 const { Header, Content, Footer } = Layout;
 
 class LoggedLayout extends React.Component {
